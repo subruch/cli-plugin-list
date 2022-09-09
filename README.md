@@ -15,7 +15,7 @@ This package is not yet hosted on GitHub. To use it, add the repository to your 
 
 Next, install the extension using composer:
 
-`composer require --dev subruch/clipluginlist`
+`composer require subruch/clipluginlist:dev-master`
 
 Next, enable the extension
 
