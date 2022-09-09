@@ -11,11 +11,11 @@ Get a good overview of plugins installed and be aware about their influence on y
 # Installation
 This package is not yet hosted on GitHub. To use it, add the repository to your composer configuration:
 
-`composer config repositories.cli-plugin-list vcs git@github.com:magento-hackathon/cli-plugin-list.git`
+`composer config repositories.cli-plugin-list vcs git@github.com:subruch/cli-plugin-list.git`
 
 Next, install the extension using composer:
 
-`composer require --dev magentohackathon/clipluginlist`
+`composer require --dev subruch/clipluginlist`
 
 Next, enable the extension
 
